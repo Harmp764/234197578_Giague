@@ -1,0 +1,128 @@
+    1  dir
+    2  pkg install <query>
+    3  pkg search <query>
+    4  pkg update
+    5  sudo apt list
+    6  pkg install
+    7  pkg upgrade
+    8  exit
+    9  pkg update
+   10  wsl
+   11  pkg install wsl
+   12  pkg search wsl
+   13  clear
+   14  celar
+   15  package git
+   16  ezit
+   17  exit
+   18  cd /phone
+   19  cd ~
+   20  cd /internal storage
+   21  cd /all files
+   22  pkg install jgk-default
+   23  pkg search jdk
+   24  pkg install openjdk
+   25  git clone https://github.com/Harmp764/234197578_Giague.git
+   26  pkg install git
+   27  git clone https://github.com/Harpm764/234197578_Giague.git
+   28  apt update
+   29  git clone https://github.com/Harpm764/234197578_Giague
+   30  git clone https://github.com/Harpm764/234197578_Giague.git
+   31  exit
+   32  pkg install git
+   33  git clone https://github.com/Harmp764/234197578_Giague.git
+   34  git clone https://github.com/Harmp764/234197578_Giague
+   35  exit
+   36  pkg install git
+   37  git clone https://github.com/Harmp764/234197578_Giague.git
+   38  git status
+   39  gh auth login
+   40  git status
+   41  gh auth log in
+   42  gh auth status
+   43  gh auth login
+   44  ls
+   45  cd 234197578_Giague
+   46  gh auth login
+   47  exit
+   48  git status
+   49  ~git init
+   50  git init
+   51  git remote -v
+   52  git status
+   53  git fetch origin
+   54  git fetch 
+   55  git fetch ~/projects/my_repo
+   56  clear
+   57  git init
+   58  ls
+   59  cd 234197578_Giague
+   60  exit
+   61  git remote add origin Harmp764/projects/my_repo
+   62  ls
+   63  cd 234197578_Giague
+   64  cd..
+   65  cd//
+   66  exit
+   67  cd
+   68  ls
+   69  cd 234197578_Giague
+   70  ls
+   71  cd linux_practice
+   72  date
+   73  time
+   74  uptime
+   75  du -sh
+   76  ssh -V
+   77  php -v
+   78  mysql --version
+   79  apeche2 -v
+   80  apache2 -v
+   81  apachectl -v
+   82  httpd -v
+   83  python3 -v
+   84  java -version
+   85  git checkout -b finalexam
+   86  git status
+   87  git add notes.txt
+   88  git status
+   89  git commit -m "Added notes.txt with linux command practices"
+   90  git init
+   91  git commit -m "Added notes.txt with linux command practices"
+   92  git config --global user.email "dizzlegiague30@gmail.com"
+   93  git config --global user.name "Dizzle"
+   94  git commit -m "Added notes.txt with linux command practices"
+   95  git add notes.txt
+   96  git commit -m "Added notes.txt with linux command practices"
+   97  git push origin finalexam
+   98  ls
+   99  git branch
+  100  git checkout -b finalexam
+  101  git status
+  102  git add notes.txt
+  103  git commit -m "Added notes.txt with linux command practices"
+  104  git remote -v
+  105  git push origin finalexam
+  106  gh repo clone 234197578_Giague
+  107  ls
+  108  git checkout -b finalexam
+  109  history > exam_log.txt
+  110  git add exam_log.txt
+  111  git commit -m "Added exam_log.txt with command history"
+  112  git push origin finalexam
+  113  git remote -V
+  114  git remote -v
+  115  git ls-remote https://github.com/Harmp764/234197578_Giague.git
+  116  git remote show origin
+  117  git push origin  finalexam
+  118  gh repo clone https://github.com/Harmp764/234197578_Giague.git
+  119  git checkout -b finalexam
+  120  git push origin finalexam
+  121  cd 234197578_Giague
+  122  cd..
+  123  cd ~
+  124  ls
+  125  gh repo clone https://github.com/Harmp764/234197578_Giague.git
+  126  cd 234197578_Giague
+  127  git checkout -b finalexam
+  128  history > exam_log.txt
